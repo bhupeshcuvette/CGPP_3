@@ -14,6 +14,16 @@ function createAlert(){
 }
 
 function createTimer(){
+    if(seconds.value<0 || seconds.value>60){
+        alert("Seconds should be less than 60");
+        seconds.value=0;
+    }
+
+    if(minutes.value<0 || minutes.value>60){
+        alert("Minutes should be less than 60");
+        minutes.value=0;
+    }
+    
     if(hours.value == 0 & minutes.value==0 & seconds.value==0){
         hours.value=0;
         minutes.value=0;
