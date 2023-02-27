@@ -1,0 +1,120 @@
+.container{
+    position: absolute;
+    width: 1390px;
+    height: 682px;
+    left: 0px;
+    top: -1px;
+    background : #F0FFFF;
+
+}
+
+.heading-countdown{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 506px;
+    top: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 40px;
+    color: #484848;
+
+}
+
+.hours{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 326px;
+    top: 190px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+}
+
+.hour-name{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 416px;
+    top: 180px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+
+
+}
+
+.minutes{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 556px;
+    top: 190px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+
+
+}
+
+.minutes-name{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 656px;
+    top: 180px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+
+}
+
+.seconds{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 796px;
+    top: 190px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+
+
+}
+
+.seconds-name{
+    position: absolute;
+    width: 105px;
+    height: 71px;
+    left: 876px;
+    top: 180px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+    text-align:center;
+
+}
+
+.button-start{
+    position: absolute;
+    width: 195px;
+    height: 71px;
+    left: 525px;
+    top: 390px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    color: #484848;
+}
